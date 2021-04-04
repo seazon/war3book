@@ -1,0 +1,9 @@
+.anylinkcss {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; Z-INDEX: 100; VISIBILITY: hidden; FONT: 12px/18px Verdana; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 0px solid; POSITION: absolute; BACKGROUND-COLOR: #0d0d0d
+}
+.anylinkcss A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 1px; WIDTH: 100%; TEXT-INDENT: 5px; PADDING-TOP: 1px; BORDER-BOTTOM: #333333 1px solid; TEXT-DECORATION: none
+}
+.anylinkcss A:hover {
+	COLOR: white; BACKGROUND-COLOR: #333333
+}
